@@ -3,7 +3,9 @@ Thumbs.db
 ehthumbs.db
 
 # Folder config file
+node_modules
 Desktop.ini
+npm-dabug.log
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
